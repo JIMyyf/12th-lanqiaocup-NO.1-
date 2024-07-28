@@ -1,0 +1,18 @@
+{
+    "files.associations": {
+        "*.m": "matlab",
+        "usart.h": "c",
+        "chrono": "c",
+        "main.h": "c"
+    },
+    "cmsis-csolution.actions": [
+        {
+            "path": "project.csolution.yml",
+            "target": "project",
+            "config": {
+                "run": "Flash Device",
+                "debug": "Arm Debugger"
+            }
+        }
+    ]
+}
