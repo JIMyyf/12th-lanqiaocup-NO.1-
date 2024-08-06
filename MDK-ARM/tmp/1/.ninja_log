@@ -3,3 +3,31 @@
 3	78	7444510787641898	C:/Users/19308/Desktop/Keil 5-project/project/MDK-ARM/tmp/1/CMakeFiles/database	c1bc28354fd71633
 397	542	7446600799534602	CMakeFiles/database	c1bc28354fd71633
 397	542	7446600799534602	C:/Users/19308/Desktop/Keil 5-project/project/MDK-ARM/tmp/1/CMakeFiles/database	c1bc28354fd71633
+6	3186	7446636204176840	CMakeFiles/Group_Application_MDK-ARM.dir/C_/Users/19308/Desktop/Keil_5-project/project/MDK-ARM/startup_stm32g431xx.o	2aea3186e7764a0d
+905	3215	7446636213165641	CMakeFiles/Group_Application_User_Core.dir/C_/Users/19308/Desktop/Keil_5-project/project/Core/Src/gpio.o	5aad567d67e88ac
+957	3224	7446636213685900	CMakeFiles/Group_Application_User_Core.dir/C_/Users/19308/Desktop/Keil_5-project/project/Application/led.o	8f1a347860962a42
+944	3276	7446636213555932	CMakeFiles/Group_Application_User_Core.dir/C_/Users/19308/Desktop/Keil_5-project/project/Core/Src/stm32g4xx_hal_msp.o	494e2aa8e7aa8961
+917	3300	7446636213288154	CMakeFiles/Group_Application_User_Core.dir/C_/Users/19308/Desktop/Keil_5-project/project/Core/Src/tim.o	56e45a76be0397ef
+979	3355	7446636213908391	CMakeFiles/Group_Drivers_STM32G4xx_HAL_Driver.dir/C_/Users/19308/Desktop/Keil_5-project/project/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal.o	9ce57ce92646e9e4
+974	3366	7446636213848413	CMakeFiles/Group_Drivers_STM32G4xx_HAL_Driver.dir/C_/Users/19308/Desktop/Keil_5-project/project/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal_pwr_ex.o	6ec60253238667ab
+985	3416	7446636213958381	CMakeFiles/Group_Drivers_STM32G4xx_HAL_Driver.dir/C_/Users/19308/Desktop/Keil_5-project/project/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal_rcc.o	354b7975ec36de19
+937	3472	7446636213485913	CMakeFiles/Group_Application_User_Core.dir/C_/Users/19308/Desktop/Keil_5-project/project/Core/Src/stm32g4xx_it.o	7f9177a3bdadd6da
+927	3479	7446636213396119	CMakeFiles/Group_Application_User_Core.dir/C_/Users/19308/Desktop/Keil_5-project/project/Core/Src/usart.o	cbd84fa49cddbd1
+899	3485	7446636213105585	CMakeFiles/Group_Application_User_Core.dir/C_/Users/19308/Desktop/Keil_5-project/project/Core/Src/main.o	b45a5d2b38446155
+3277	3583	7446636236887043	CMakeFiles/Group_Drivers_STM32G4xx_HAL_Driver.dir/C_/Users/19308/Desktop/Keil_5-project/project/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal_flash_ramfunc.o	6f801f6139e6d231
+3216	3590	7446636236272550	CMakeFiles/Group_Drivers_STM32G4xx_HAL_Driver.dir/C_/Users/19308/Desktop/Keil_5-project/project/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal_flash.o	803c03b28ac1924a
+3355	3703	7446636237664860	CMakeFiles/Group_Drivers_STM32G4xx_HAL_Driver.dir/C_/Users/19308/Desktop/Keil_5-project/project/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal_exti.o	b1f90ba521a0a33
+3224	3704	7446636236351614	CMakeFiles/Group_Drivers_STM32G4xx_HAL_Driver.dir/C_/Users/19308/Desktop/Keil_5-project/project/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal_flash_ex.o	a6f0cd7952dc161d
+3187	3704	7446636235987565	CMakeFiles/Group_Drivers_STM32G4xx_HAL_Driver.dir/C_/Users/19308/Desktop/Keil_5-project/project/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal_rcc_ex.o	991aee163bf8c8cb
+3300	3751	7446636237111001	CMakeFiles/Group_Drivers_STM32G4xx_HAL_Driver.dir/C_/Users/19308/Desktop/Keil_5-project/project/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal_gpio.o	428fb31048afe68f
+3416	3815	7446636238278239	CMakeFiles/Group_Drivers_STM32G4xx_HAL_Driver.dir/C_/Users/19308/Desktop/Keil_5-project/project/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal_dma_ex.o	dde1541321096eee
+3479	3816	7446636238901594	CMakeFiles/Group_Drivers_STM32G4xx_HAL_Driver.dir/C_/Users/19308/Desktop/Keil_5-project/project/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal_cortex.o	8eb8d7a500ec01d2
+3366	3826	7446636237774987	CMakeFiles/Group_Drivers_STM32G4xx_HAL_Driver.dir/C_/Users/19308/Desktop/Keil_5-project/project/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal_dma.o	a6e3242170a3efb0
+3472	3840	7446636238831613	CMakeFiles/Group_Drivers_STM32G4xx_HAL_Driver.dir/C_/Users/19308/Desktop/Keil_5-project/project/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal_pwr.o	6db6726c63b09726
+951	3846	7446636213625912	CMakeFiles/Group_Application_User_Core.dir/C_/Users/19308/Desktop/Keil_5-project/project/Application/lcd.o	8413a7a6d0fe1073
+3590	3932	7446636240017582	CMakeFiles/Group_Drivers_CMSIS.dir/C_/Users/19308/Desktop/Keil_5-project/project/Core/Src/system_stm32g4xx.o	b1da97200f332dc8
+3583	3960	7446636239940855	CMakeFiles/Group_Drivers_STM32G4xx_HAL_Driver.dir/C_/Users/19308/Desktop/Keil_5-project/project/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal_uart_ex.o	61fab0c4498a1a68
+963	4152	7446636213746463	CMakeFiles/Group_Drivers_STM32G4xx_HAL_Driver.dir/C_/Users/19308/Desktop/Keil_5-project/project/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal_tim.o	5af3d70df924e074
+3486	4231	7446636238974766	CMakeFiles/Group_Drivers_STM32G4xx_HAL_Driver.dir/C_/Users/19308/Desktop/Keil_5-project/project/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal_uart.o	1cba40d3483a8195
+968	6536	7446636213798385	CMakeFiles/Group_Drivers_STM32G4xx_HAL_Driver.dir/C_/Users/19308/Desktop/Keil_5-project/project/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal_tim_ex.o	1457f795484b4595
+6536	7120	7446636269479469	C:/Users/19308/Desktop/Keil 5-project/project/MDK-ARM/out/project/project/project.axf	5064fc05db4e10b0

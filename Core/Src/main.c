@@ -418,7 +418,7 @@ void HAL_TIM_PeriodElapsedCallback(TIM_HandleTypeDef *htim)
   {
     if (mode == 0)
     {
-      LCD_DisplayStringLine(Line2, (u8 *)"        Data  ");
+      LCD_DisplayStringLine(Line2, (u8 *)"        Data    ");
       sprintf(text, "   CNBR:%d    ", stop_message.cnbr_num);
       LCD_DisplayStringLine(Line4, (u8 *)text);
       sprintf(text, "   VNBR:%d    ", stop_message.vnbr_num);
@@ -428,7 +428,7 @@ void HAL_TIM_PeriodElapsedCallback(TIM_HandleTypeDef *htim)
     }
     else if (mode == 1)
     {
-      LCD_DisplayStringLine(Line2, (u8 *)"        Para  ");
+      LCD_DisplayStringLine(Line2, (u8 *)"        Para    ");
       sprintf(text, "   CNBR:%.2f    ", stop_message.cnbr_spend);
       LCD_DisplayStringLine(Line4, (u8 *)text);
       sprintf(text, "   VNBR:%.2f    ", stop_message.vnbr_spend);

@@ -1,15 +1,24 @@
 # ninja log v6
-121	199	7444510708668650	C:/Users/19308/Desktop/Keil 5-project/project/MDK-ARM/tmp/project+project/src/project+project-stamp/project+project-download	1a067c21afdbd661
-121	199	7444510708668650	project+project/src/project+project-stamp/project+project-download	1a067c21afdbd661
 22	121	7444510707698628	project+project/src/project+project-stamp/project+project-mkdir	d7cde4fb64c7c05b
-199	267	7444510709351802	project+project/src/project+project-stamp/project+project-update	b3cce98093e11e66
+121	199	7444510708668650	project+project/src/project+project-stamp/project+project-download	1a067c21afdbd661
+121	199	7444510708668650	C:/Users/19308/Desktop/Keil 5-project/project/MDK-ARM/tmp/project+project/src/project+project-stamp/project+project-download	1a067c21afdbd661
 22	121	7444510707698628	C:/Users/19308/Desktop/Keil 5-project/project/MDK-ARM/tmp/project+project/src/project+project-stamp/project+project-mkdir	d7cde4fb64c7c05b
-267	343	7444510710111993	project+project/src/project+project-stamp/project+project-patch	6e78c5be5dcca0bd
+199	267	7444510709351802	project+project/src/project+project-stamp/project+project-update	b3cce98093e11e66
 199	267	7444510709351802	C:/Users/19308/Desktop/Keil 5-project/project/MDK-ARM/tmp/project+project/src/project+project-stamp/project+project-update	b3cce98093e11e66
+267	343	7444510710111993	project+project/src/project+project-stamp/project+project-patch	6e78c5be5dcca0bd
 267	343	7444510710111993	C:/Users/19308/Desktop/Keil 5-project/project/MDK-ARM/tmp/project+project/src/project+project-stamp/project+project-patch	6e78c5be5dcca0bd
 343	8042	7444510787074632	project+project/src/project+project-stamp/project+project-configure	e6911d7c986e5501
 343	8042	7444510787074632	C:/Users/19308/Desktop/Keil 5-project/project/MDK-ARM/tmp/project+project/src/project+project-stamp/project+project-configure	e6911d7c986e5501
-8042	8171	7444510787178994	project+project/src/project+project-stamp/project+project-database	195ef2dfe7ed6e00
-8042	8171	7444510787178994	C:/Users/19308/Desktop/Keil 5-project/project/MDK-ARM/tmp/project+project/src/project+project-stamp/project+project-database	195ef2dfe7ed6e00
 53	755	7446600794221079	project+project/src/project+project-stamp/project+project-database	195ef2dfe7ed6e00
 53	755	7446600794221079	C:/Users/19308/Desktop/Keil 5-project/project/MDK-ARM/tmp/project+project/src/project+project-stamp/project+project-database	195ef2dfe7ed6e00
+46	7261	7446636203352767	project+project/src/project+project-stamp/project+project-build	1e8d3893e8e93305
+46	7261	7446636203352767	C:/Users/19308/Desktop/Keil 5-project/project/MDK-ARM/out/project/project/project.axf	1e8d3893e8e93305
+46	7261	7446636203352767	C:/Users/19308/Desktop/Keil 5-project/project/MDK-ARM/tmp/project+project/src/project+project-stamp/project+project-build	1e8d3893e8e93305
+7261	7310	7446636275498072	project+project/src/project+project-stamp/project+project-install	b9f8475327abd2b5
+7261	7310	7446636275498072	C:/Users/19308/Desktop/Keil 5-project/project/MDK-ARM/tmp/project+project/src/project+project-stamp/project+project-install	b9f8475327abd2b5
+7310	7366	7446636276486999	project+project/src/project+project-stamp/project+project-test	60bf84610f67231c
+7310	7366	7446636276486999	C:/Users/19308/Desktop/Keil 5-project/project/MDK-ARM/tmp/project+project/src/project+project-stamp/project+project-test	60bf84610f67231c
+7366	7456	7446636277349171	CMakeFiles/project+project-complete	aac709352ca0413b
+7366	7456	7446636277349171	project+project/src/project+project-stamp/project+project-done	aac709352ca0413b
+7366	7456	7446636277349171	C:/Users/19308/Desktop/Keil 5-project/project/MDK-ARM/tmp/CMakeFiles/project+project-complete	aac709352ca0413b
+7366	7456	7446636277349171	C:/Users/19308/Desktop/Keil 5-project/project/MDK-ARM/tmp/project+project/src/project+project-stamp/project+project-done	aac709352ca0413b
