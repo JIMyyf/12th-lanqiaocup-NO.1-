@@ -1,5 +1,5 @@
 build:
-  generated-by: csolution version 2.4.0
+  generated-by: csolution version 2.5.0
   solution: project.csolution.yml
   project: project.cproject.yml
   context: project+project
@@ -90,8 +90,12 @@ build:
     - RTE/_project
     - ${CMSIS_PACK_ROOT}/ARM/CMSIS/5.9.0/CMSIS/Core/Include
     - ${CMSIS_PACK_ROOT}/Keil/STM32G4xx_DFP/1.6.0/Drivers/CMSIS/Device/ST/STM32G4xx/Include
+  add-path-asm:
+    - RTE/_project
+    - ${CMSIS_PACK_ROOT}/ARM/CMSIS/5.9.0/CMSIS/Core/Include
+    - ${CMSIS_PACK_ROOT}/Keil/STM32G4xx_DFP/1.6.0/Drivers/CMSIS/Device/ST/STM32G4xx/Include
   output-dirs:
-    intdir: tmp/project/project
+    intdir: tmp
     outdir: out/project/project
     rtedir: RTE
   output:

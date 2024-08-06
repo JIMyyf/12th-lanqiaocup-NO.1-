@@ -1,0 +1,11 @@
+# Target labels
+ project+project
+# Source files and their labels
+C:/Users/19308/Desktop/Keil 5-project/project/MDK-ARM/tmp/CMakeFiles/project+project-build
+C:/Users/19308/Desktop/Keil 5-project/project/MDK-ARM/tmp/CMakeFiles/project+project-build.rule
+C:/Users/19308/Desktop/Keil 5-project/project/MDK-ARM/tmp/project+project/src/project+project-stamp/project+project-build.rule
+C:/Users/19308/Desktop/Keil 5-project/project/MDK-ARM/tmp/project+project/src/project+project-stamp/project+project-configure.rule
+C:/Users/19308/Desktop/Keil 5-project/project/MDK-ARM/tmp/project+project/src/project+project-stamp/project+project-patch.rule
+C:/Users/19308/Desktop/Keil 5-project/project/MDK-ARM/tmp/project+project/src/project+project-stamp/project+project-update.rule
+C:/Users/19308/Desktop/Keil 5-project/project/MDK-ARM/tmp/project+project/src/project+project-stamp/project+project-download.rule
+C:/Users/19308/Desktop/Keil 5-project/project/MDK-ARM/tmp/project+project/src/project+project-stamp/project+project-mkdir.rule

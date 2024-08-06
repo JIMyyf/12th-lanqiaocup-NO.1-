@@ -1,6 +1,7 @@
 build-idx:
-  generated-by: csolution version 2.4.0
+  generated-by: csolution version 2.5.0
   csolution: project.csolution.yml
+  tmpdir: tmp
   cprojects:
     - cproject: project.cproject.yml
   cbuilds:

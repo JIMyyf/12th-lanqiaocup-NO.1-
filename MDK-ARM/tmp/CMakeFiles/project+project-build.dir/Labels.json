@@ -1,0 +1,37 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "C:/Users/19308/Desktop/Keil 5-project/project/MDK-ARM/tmp/CMakeFiles/project+project-build"
+		},
+		{
+			"file" : "C:/Users/19308/Desktop/Keil 5-project/project/MDK-ARM/tmp/CMakeFiles/project+project-build.rule"
+		},
+		{
+			"file" : "C:/Users/19308/Desktop/Keil 5-project/project/MDK-ARM/tmp/project+project/src/project+project-stamp/project+project-build.rule"
+		},
+		{
+			"file" : "C:/Users/19308/Desktop/Keil 5-project/project/MDK-ARM/tmp/project+project/src/project+project-stamp/project+project-configure.rule"
+		},
+		{
+			"file" : "C:/Users/19308/Desktop/Keil 5-project/project/MDK-ARM/tmp/project+project/src/project+project-stamp/project+project-patch.rule"
+		},
+		{
+			"file" : "C:/Users/19308/Desktop/Keil 5-project/project/MDK-ARM/tmp/project+project/src/project+project-stamp/project+project-update.rule"
+		},
+		{
+			"file" : "C:/Users/19308/Desktop/Keil 5-project/project/MDK-ARM/tmp/project+project/src/project+project-stamp/project+project-download.rule"
+		},
+		{
+			"file" : "C:/Users/19308/Desktop/Keil 5-project/project/MDK-ARM/tmp/project+project/src/project+project-stamp/project+project-mkdir.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"project+project"
+		],
+		"name" : "project+project-build"
+	}
+}
